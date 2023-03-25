@@ -11,3 +11,135 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#tag{
+  margin-top: 150px;
+  width: 400px;
+  position: absolute;
+  }
+  #hed{
+    color:rgb(182, 10, 10);
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 380px;
+  }
+  #tar{
+    width: 300px;
+    font-size:15px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 380px;
+  }
+  #ta{
+    width: 80px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 290px;
+  }
+  #tap{
+    width: 80px;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 420px;
+    font-size:15px;
+  }
+  #her{
+    color:rgb(182, 10, 10);
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 510px;
+  }
+  #tao{
+    width: 300px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 510px;
+  }
+  #tab{
+    width: 100px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 380px;
+  }
+  #het{
+    color:rgb(182, 10, 10);
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 480px;
+  }
+  #tal{
+    width: 300px;
+    font-size:15px;
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 480px;
+  }
+  #u{
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 500px;
+    color:rgb(179, 16, 16);
+  }
+  #p2{
+    margin-top: 670px;
+    position: absolute;
+    width:700px;
+    margin-left: 300px;
+  }
+  #pc1{
+    margin-top: 750px;
+    margin-left: 150px;
+    position:absolute;
+  }
+  #pic1{
+    margin-left: 20px;
+  }
+  #e2{
+    margin-left: 25px;
+    margin-top: 4px;
+  }
+  
+  #ep{
+    width: 330px;
+    margin-top: 0px;
+  }
+  #pc2{
+    margin-top: 750px;
+    margin-left: 550px;
+    position:absolute;
+  }
+  #pc3{
+    margin-top: 750px;
+    margin-left: 930px;
+    position:absolute;
+  }
+  #but{
+    position: absolute;
+    margin-top: 1150px;
+  }
+  #bu{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 500px;
+    border-radius: 10px;
+    background-color: rgb(240, 168, 13);
+  }
+  #ui{
+    color: rgb(180, 8, 8);
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: 500px;
+    font-size: 30px;
+  }
+  #c1{
+    margin-top: 1450px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    width: 450px;
+  }
+  #c2{
+    margin-top: 1450px;
+    margin-left: 150px;
+    margin-bottom: 130px;
+    width: 450px;
+  }
